@@ -116,7 +116,7 @@ Each notebook is self-contained and documents its required inputs (content image
 
 The full Final Year Project report — including literature review, design rationale, implementation details, evaluation, and discussion of limitations — is available as:
 
-📄 **[`Final Project Report-NST_Anime_Style.pdf`](final_report.pdf)**
+📄 **[`Final Project Report-NST_Anime_Style.pdf`](Final Project Report-NST_Anime_Style.pdf)**
 
 The report covers:
 
