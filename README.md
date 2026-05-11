@@ -1,6 +1,5 @@
 # Neural Style Transfer for Anime Stylization
 
-**CM3015 Machine Learning and Neural Networks — Final Year Project**
 
 This repository contains the implementation, experiments, and benchmarks for a Final Year Project investigating optimisation-based Neural Style Transfer (NST) for anime stylisation. The work adapts the classical Gatys et al. (2016) framework with three additional loss functions — **Edge Loss**, **Surface Smoothing Loss**, and **Laplacian Loss** — and evaluates the resulting system against the GAN-based benchmark AnimeGANv2.
 
